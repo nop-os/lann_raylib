@@ -1,6 +1,6 @@
 # raylib bindings for lann
 
-Check out raylib here: [](https://www.raylib.com/)
+Check out raylib here: [https://www.raylib.com/](https://www.raylib.com/)
 
 ## Building and installing
 

@@ -1,0 +1,12 @@
+lib_load("raylib")
+
+rl_InitWindow(960, 600, "raylib test")
+
+while !rl_WindowShouldClose() begin
+  rl_BeginDrawing()
+  rl_ClearBackground(51, 51, 51, 255)
+  
+  rl_EndDrawing()
+end
+
+rl_CloseWindow()
